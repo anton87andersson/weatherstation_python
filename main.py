@@ -1,5 +1,5 @@
 # Set API-key from openweathermap.org
-apikey = "ed5b646a676bec3d15f7f13b3299ebd9"
+apikey = "API-KEY"
 
 # Set the City from what the user input
 city = raw_input("Enter city name: ")
